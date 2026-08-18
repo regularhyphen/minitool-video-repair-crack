@@ -46,3 +46,4 @@ Yes, specifically tested with GoPro and drone footage.
 ## License
 
 MIT
+ 
